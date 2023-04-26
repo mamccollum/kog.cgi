@@ -32,7 +32,7 @@ Have a nice day!
 ## Notes
 The script is able to handle alternative numbers of digits in the URL, ex. `1` or `001` instead of `00001`.
 
-THere might be bugs. Please create an (issue ticket)[https://github.com/mamccollum/kog.cgi/issues] if you find one.
+THere might be bugs. Please create an [issue ticket](https://github.com/mamccollum/kog.cgi/issues) if you find one.
 
 ## License
 3-Clause BSD. See [LICENSE](LICENSE) for more information.
